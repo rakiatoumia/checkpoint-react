@@ -1,0 +1,32 @@
+@import url("http://fonts.cdnfonts.com/css/summer-vacation");
+
+body {
+  width: 100%;
+  background-color: #282c34;
+  color: white;
+  padding: 5px 50px;
+  font-family: Arial;
+  background-image: url("./images/2.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+}
+
+.greet {
+  margin-top: 15px;
+  position: absolute;
+  margin-left: 700px;
+  font-family: "Summer Vacation", sans-serif;
+  color: white;
+  font-size: 60px;
+}
+
+Form {
+  width: 30%;
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: 10px;
+  position: absolute;
+  border-radius: 10px;
+  margin-top: 100px;
+  margin-left: 700px;
+}
